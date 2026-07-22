@@ -45,24 +45,24 @@ text, tspan {white-space: pre;}
 </text>
 <text x="390" y="30" fill="#24292f">
 <tspan x="390" y="30">abidul@fikri</tspan> -——————————————————————————————————————————-—-
-<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan x="975" text-anchor="end" class="value">macOS, Linux</tspan>
-<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan x="975" text-anchor="end" class="value">Indonesia (UTC+7)</tspan>
-<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan x="975" text-anchor="end" class="value">Personal Infrastructure</tspan>
-<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan x="975" text-anchor="end" class="value">SRE / DevOps / Cloud Engineer</tspan>
-<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan x="975" text-anchor="end" class="value">Vim, Nano, VSCode</tspan>
+<tspan x="390" y="50" class="cc">. </tspan><tspan class="key">OS</tspan>:<tspan x="600" class="value">macOS, Linux</tspan>
+<tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Location</tspan>:<tspan x="600" class="value">Indonesia (UTC+7)</tspan>
+<tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Host</tspan>:<tspan x="600" class="value">Personal Infrastructure</tspan>
+<tspan x="390" y="110" class="cc">. </tspan><tspan class="key">Kernel</tspan>:<tspan x="600" class="value">SRE / DevOps / Cloud Engineer</tspan>
+<tspan x="390" y="130" class="cc">. </tspan><tspan class="key">IDE</tspan>:<tspan x="600" class="value">Vim, Nano, VSCode</tspan>
 <tspan x="390" y="150" class="cc">. </tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan x="975" text-anchor="end" class="value">Golang, Next.js, Python</tspan>
-<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Infra</tspan>:<tspan x="975" text-anchor="end" class="value">Docker, Kubernetes, CNPG</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Database</tspan>:<tspan x="975" text-anchor="end" class="value">PostgreSQL, MySQL, MongoDB</tspan>
-<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Config</tspan>:<tspan x="975" text-anchor="end" class="value">Terraform, Helm, Ansible, Nginx</tspan>
-<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Language</tspan>:<tspan x="975" text-anchor="end" class="value">Indonesian, English</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Backend</tspan>:<tspan x="600" class="value">Golang, Next.js, Python</tspan>
+<tspan x="390" y="190" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Infra</tspan>:<tspan x="600" class="value">Docker, Kubernetes, CNPG</tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Database</tspan>:<tspan x="600" class="value">PostgreSQL, MySQL, MongoDB</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Config</tspan>:<tspan x="600" class="value">Terraform, Helm, Ansible, Nginx</tspan>
+<tspan x="390" y="250" class="cc">. </tspan><tspan class="key">Stack</tspan>.<tspan class="key">Language</tspan>:<tspan x="600" class="value">Indonesian, English</tspan>
 <tspan x="390" y="270" class="cc">. </tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Writing</tspan>.<tspan class="key">Medium</tspan>:<tspan x="975" text-anchor="end" class="value">Tech &amp; Infrastructure articles</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">Writing</tspan>.<tspan class="key">Medium</tspan>:<tspan x="600" class="value">Tech &amp; Infrastructure articles</tspan>
 <tspan x="390" y="310">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan x="975" text-anchor="end" class="value">abidulfikri28@gmail.com</tspan>
-<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Medium</tspan>:<tspan x="975" text-anchor="end" class="value">@abidulfikri28</tspan>
-<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan x="975" text-anchor="end" class="value">abidulfikri28</tspan>
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan x="975" text-anchor="end" class="value">abidulfikri28</tspan>
+<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan x="600" class="value">abidulfikri28@gmail.com</tspan>
+<tspan x="390" y="350" class="cc">. </tspan><tspan class="key">Medium</tspan>:<tspan x="600" class="value">@abidulfikri28</tspan>
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan x="600" class="value">abidulfikri28</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan x="600" class="value">abidulfikri28</tspan>
 <tspan x="390" y="410" class="cc">. </tspan>
 <tspan x="390" y="430" class="cc">. </tspan>
 <tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
