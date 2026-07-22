@@ -226,29 +226,21 @@ def stars_counter(data):
 def svg_overwrite(filename, commit_data, star_data, repo_data, contrib_data, follower_data, loc_data, ascii_lines):
     tree = etree.parse(filename)
     root = tree.getroot()
-    justify_format(root, 'commit_data', commit_data, 22)
-    justify_format(root, 'star_data', star_data, 14)
-    justify_format(root, 'repo_data', repo_data, 6)
-    justify_format(root, 'contrib_data', contrib_data)
-    justify_format(root, 'follower_data', follower_data, 10)
-    justify_format(root, 'loc_data', loc_data[2], 9)
-    justify_format(root, 'loc_add', loc_data[0])
-    justify_format(root, 'loc_del', loc_data[1], 7)
+    set_value(root, 'commit_data', commit_data)
+    set_value(root, 'star_data', star_data)
+    set_value(root, 'repo_data', repo_data)
+    set_value(root, 'contrib_data', contrib_data)
+    set_value(root, 'follower_data', follower_data)
+    set_value(root, 'loc_data', loc_data[2])
+    set_value(root, 'loc_add', loc_data[0])
+    set_value(root, 'loc_del', loc_data[1])
     update_ascii_art(root, ascii_lines)
     tree.write(filename, encoding='utf-8', xml_declaration=True)
 
-def justify_format(root, element_id, new_text, length=0):
-    if isinstance(new_text, int):
-        new_text = f"{'{:,}'.format(new_text)}"
-    new_text = str(new_text)
-    find_and_replace(root, element_id, new_text)
-    just_len = max(0, length - len(new_text))
-    if just_len <= 2:
-        dot_map = {0: '', 1: ' ', 2: '. '}
-        dot_string = dot_map[just_len]
-    else:
-        dot_string = ' ' + ('.' * just_len) + ' '
-    find_and_replace(root, f"{element_id}_dots", dot_string)
+def set_value(root, element_id, value):
+    if isinstance(value, int):
+        value = f'{value:,}'
+    find_and_replace(root, element_id, str(value))
 
 def find_and_replace(root, element_id, new_text):
     element = root.find(f".//*[@id='{element_id}']")
